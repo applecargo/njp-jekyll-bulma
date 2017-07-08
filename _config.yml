@@ -16,4 +16,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - bulma
 include: ["_pages"]
