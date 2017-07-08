@@ -1,0 +1,26 @@
+{
+  "name": "njp-jekyll-bulma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bulma": "node_modules/node-sass/bin/node-sass bulma/bulma-mod.sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applecargo/njp-jekyll-bulma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/applecargo/njp-jekyll-bulma/issues"
+  },
+  "homepage": "https://github.com/applecargo/njp-jekyll-bulma#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bulma": "^0.4.3",
+    "colors.css": "^3.0.0",
+    "node-sass": "^4.5.3"
+  }
+}
